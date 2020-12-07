@@ -9,7 +9,7 @@
 
 - HTML
 - Bootswatch
-- JavaScript (Use of DOM Manipulation, Event Handling, OOP, Async Js & Local Storage API)
+- JavaScript (Use of DOM Manipulation, Event Handling, OOP & Fetch API)
 
 ---
 
