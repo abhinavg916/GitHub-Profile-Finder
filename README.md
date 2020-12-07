@@ -1,14 +1,15 @@
 # GitHub Profile Finder
+
 [![Netlify Status]()
 
-- GitHub Profile Finder is a object oriented programming based mini-project using JavaScript
+- GitHub Profile Finder is a Fetch API based mini-project using JavaScript
 - Visit - [GitHub Profile Finder]()
 
 ## Tech Used
 
 - HTML
-- Skeleton
-- JavaScript (Use of DOM Manipulation, Event Handling, OOPs, Async Js & Local Storage API)
+- Bootswatch
+- JavaScript (Use of DOM Manipulation, Event Handling, OOP, Async Js & Local Storage API)
 
 ---
 
